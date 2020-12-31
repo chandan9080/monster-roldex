@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 5px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 80px;
+  color: lightblue;
+}
